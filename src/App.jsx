@@ -16,7 +16,11 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
+<<<<<<< HEAD
           <h1>gonna crash</h1>
+=======
+          <h1>this is ALSO gonna crash</h1>
+>>>>>>> origin/mergefail2
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
